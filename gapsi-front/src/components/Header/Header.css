@@ -1,0 +1,19 @@
+.app-header {
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+
+.header-logo {
+  width: 50px;
+  height: 50px;
+  margin-right: 12px;
+}
+
+.app-header .MuiTypography-h6 {
+  font-weight: 600;
+  color: #333 !important;
+}
+
+.app-header .MuiIconButton-root {
+  color: #333 !important;
+}
