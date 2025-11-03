@@ -1,0 +1,21 @@
+{
+  "name": "Gapsi e-Commerce",
+  "short_name": "Gapsi",
+  "description": "Sistema de gestión de proveedores",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1976d2",
+  "icons": [
+    {
+      "src": "/logo-gapsi.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo-gapsi.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
